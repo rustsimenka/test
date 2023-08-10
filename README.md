@@ -1,2 +1,2 @@
-test 22 from pc# rustsimenka
+test comand PUSH from pc# rustsimenka
 # rustsimenka
